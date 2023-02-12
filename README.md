@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:a82da8&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:00bfbf,100:a82da8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Viny+Sales;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:00bfbf,100:a82da8&repeat=false&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Viny+Sales)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bdbdbd&font=Segoe+script&size=19&pause=2000&center=true&duration=7000&vCenter=true&width=1000&lines=“It's+fine+to+celebrate+success,+but+it+is+more+important+to+heed+the+lessons+of+failure.”;Bill+Gates)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinysales&label=Profile%20views&color=0e75b6&style=flat" alt="vinysales" /> </p>
 
