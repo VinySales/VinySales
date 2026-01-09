@@ -1,25 +1,70 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:a82da8&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:00bfbf,100:a82da&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Viny+Sales)](https://git.io/typing-svg)
+<div align="center">
+  
+  <h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 300; font-size: 2.5em; letter-spacing: -1px;">
+    Viny Sales
+  </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+script&size=19&weight=100&duration=4000&color=BDBDBD&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=77&lines=%E2%80%9CIt's+fine+to+celebrate+success%2C+but+it+is+more+important+to+heed+the+lessons+of+failure.%E2%80%9D;Bill+Gates)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=400&size=20&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&lines=Product-Minded+Software+Engineer;Building+High-Performance+SaaS;React+%26+Supabase+Specialist" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinysales&label=Profile%20views&color=0e75b6&style=flat" alt="vinysales" /> </p>
+<br>
 
-- 🔭 I’m currently working on **Ericsson**
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **vinysalesreboucas@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinysales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinysales" height="30" width="40" /></a>
-<a href="https://fb.com/vinysales2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinysales2000" height="30" width="40" /></a>
-<a href="https://instagram.com/vinysalesz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinysalesz" height="30" width="40" /></a>
+<p align="center" style="font-family: sans-serif; font-size: 1.1em; color: #86868b; max-width: 600px; margin: 0 auto;">
+  Transforming complex operational problems into elegant software solutions. <br>
+  Currently innovating at <b>Ericsson</b> and building my own SaaS ecosystem.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:a82da8&height=80&section=footer"/>
+<div align="center">
+  <p style="color: #86868b; font-size: 0.9em;">
+    <em>A modular SaaS platform designed for high-efficiency operations.</em>
+  </p>
+  <img src="https://img.shields.io/badge/Stack-React_|_Supabase_|_Realtime-1C1C1E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1C1C1E" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3 style="color: #F5F5F7;">Tech Stack</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3 style="color: #F5F5F7;">Contact Me</h3>
+  
+  <a href="https://linkedin.com/in/vinysales" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:vinysalesreboucas@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://instagram.com/vinysalesz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  </a>
+</div>
